@@ -1,8 +1,11 @@
 # calculadora
 
-<h1>Inicio de la Calculador</h1>
 
-<p>Operaciones básicas</p>
- suma
-![Imagen Uno](storage/uno.png)
+## <span style="color:blue">Inicio de Calculadora</span>
+![calculadora]https://github.com/Andineitor/flutter-calculadora/blob/main/storage/uno.png)
+![calculadora]https://github.com/Andineitor/flutter-calculadora/blob/main/storage/dos.png)
 
+## <span style="color:blue">Operaciones Basicas</span>
+
+<h2>Suma</h2>
+![calculadora]https://github.com/Andineitor/flutter-calculadora/blob/main/storage/suma.png)
