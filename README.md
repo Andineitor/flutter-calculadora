@@ -6,21 +6,31 @@
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/dos.png)
 <br>
 <hr>
-## <span style="color:blue">Operaciones Basicas</span>
+<h1 color="blue"><span style="color:blue">Operaciones Basicas</span><h1>
 
-###- Suma
+- Suma
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/suma.png)
+<hr>
 
-
-###- resta
+- resta
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/resta.png)
+<hr>
 
-
-###- Divición
+- Divición
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/div.png)
+<hr>
 
-
-###- Multiplicación
+- Multiplicación
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/multi.png)
 <br>
 <hr>
+<h1 color="blue"><span style="color:blue">Operaciones Trigonométricas</span><h1>
+
+-Sen
+![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/senpng.png)
+<hr>
+
+![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/cos.png)
+<hr>
+
+![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/tan.png)
