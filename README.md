@@ -22,8 +22,8 @@
 
 - Multiplicación
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/multi.png)
-<br>
 <hr>
+<br>
 <h1 color="blue"><span style="color:blue">Operaciones Trigonométricas</span><h1>
 
 -Sen
