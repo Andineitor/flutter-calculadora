@@ -9,19 +9,19 @@
 <h1 color="blue"><span style="color:blue">Operaciones Basicas</span><h1>
 
 - Suma
-<hr>
+<h>
 
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/suma.png)
 <hr>
 
 - resta
-<hr>
+<h>
 
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/resta.png)
 <hr>
 
 - Divición
-<hr>
+<h>
 
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/div.png)
 <hr>
@@ -35,7 +35,7 @@
 <h1 color="blue"><span style="color:blue">Operaciones Trigonométricas</span><h1>
 
 -Sen
-<hr>
+<h>
 
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/senpng.png)
 <hr>
@@ -44,9 +44,9 @@
 <hr>
 
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/cos.png)
-<hr>
+<h>
 
 - tan
-<hr>
+<h>
 
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/tan.png)
