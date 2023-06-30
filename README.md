@@ -4,4 +4,4 @@
 
 <p>Operaciones básicas</p>
  suma
- ![imagen uno](/storage/uno.png)
+ ![imagen uno](storage/uno.png)
