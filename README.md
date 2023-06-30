@@ -37,17 +37,20 @@
 <h2>-Sen</h2>
 <br>
 <h>
+<p>Sen de 40</p>
 
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/senpng.png)
 <hr>
 
 <h2>- cos</h2>
 <br>
+<p>Cos de 40</p>
 
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/cos.png)
 <h>
 
 <h2>- tan</h2>
 <br>
+<p>Tan de 40</p>
 
 ![calculadora](https://github.com/Andineitor/flutter-calculadora/blob/main/storage/tan.png)
